@@ -1,0 +1,17 @@
+
+.insult-display {
+    width: 100%;
+    min-height: 10rem;
+    height: fit-content;
+
+    border: black 1px solid;
+    border-radius: 6px;
+
+    margin-top: 1rem;
+
+    padding: 0.4rem;
+}
+
+.insult-display__p {
+    max-width: 20rem;
+}
